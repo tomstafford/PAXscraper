@@ -11,6 +11,7 @@ Uses conda for reproducibility
 Get your API tokens from OSF and mastodon and store in the files from which these are loaded
 
 For all functions to work create folders 
-\data
-\archive
+ \data
+ \archive
 
+Key demo of the API use is the function <get_preprints> which is currentrly line 243 in paxscrape.py 
